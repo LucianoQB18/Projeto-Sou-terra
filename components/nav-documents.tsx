@@ -50,11 +50,11 @@ export function NavDocuments({
               >
                 <DropdownMenuItem>
                   <FolderIcon />
-                  <span>Open</span>
+                  <span>Abrir</span>
                 </DropdownMenuItem>
                 <DropdownMenuItem>
                   <ShareIcon />
-                  <span>Share</span>
+                  <span>Compartilhar</span>
                 </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
@@ -63,7 +63,7 @@ export function NavDocuments({
         <SidebarMenuItem>
           <SidebarMenuButton className="text-sidebar-foreground/70">
             <MoreHorizontalIcon className="text-sidebar-foreground/70" />
-            <span>More</span>
+            <span>Mais</span>
           </SidebarMenuButton>
         </SidebarMenuItem>
       </SidebarMenu>
